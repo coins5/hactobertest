@@ -1,4 +1,12 @@
 {
-  name: "David",
-  lastName: "Gutierrez"
+  "people": [
+    {
+      "name": "David",
+      "lastName": "Gutierrez"
+    },
+    {
+      "name": "Joseph",
+      "lastName": "Allen"
+    }
+  ]
 }
